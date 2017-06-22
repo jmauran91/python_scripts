@@ -11,3 +11,7 @@ This will only work if you run the script immediately after downloading the zip 
 
 Also this script is written for windows and users should have rarfile, zipfile
  and eyed3 installed.
+
+Users should tailor the filepaths in this script as is appropriate for their
+computer. This script does not have one-size-fits-all functionality, unless
+the user has the same file structure as the author.
