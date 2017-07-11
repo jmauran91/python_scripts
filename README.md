@@ -15,3 +15,10 @@ Also this script is written for windows and users should have rarfile, zipfile
 Users should tailor the filepaths in this script as is appropriate for their
 computer. This script does not have one-size-fits-all functionality, unless
 the user has the same file structure as the author.
+
+
+2)
+
+Use the webscraper to find names or keywords from a website and populate an excel spreadsheet with them.
+
+Users must install BeautifulSoup, requests, XlsxWriter
